@@ -1,0 +1,3 @@
+# comprobar-redirecciones
+Script que comprueba redirecciones y lo escribe en un .csv.
+Script diseñado para una tarea clásica de seo que va directo a lo que necesitamos cuando se realizan migraciones o redirecciones en ecommerce, blogs etc...
